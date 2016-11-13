@@ -54,5 +54,7 @@
         <icon src="www/res/icons/ios/icon-50@2x.png" width="100" height="100" />
 
     </platform>
-
+	
+	    <platform name="android">
+		</platform>
 </widget>
